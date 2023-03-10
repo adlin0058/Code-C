@@ -1,3 +1,4 @@
+//?练习5-1 求m到n之和
 // todo 计算m~n之间所有整数和
 
 #include <stdio.h>
