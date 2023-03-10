@@ -1,3 +1,5 @@
+// todo 计算m~n之间所有整数和
+
 #include <stdio.h>
 #include <stdlib.h>
 int sum(int m, int n);
